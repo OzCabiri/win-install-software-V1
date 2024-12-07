@@ -1,5 +1,3 @@
-<a id="readme-top"></a>
-
 <br/>
 <div align="center">
 <h1 align="center">Powershell software installer</h1>
@@ -11,8 +9,6 @@
 ## About The Project
 These are some powershell scripts to install software using winget with some console output.</br>
 Also added some scripts to ensure things were added to PATH in case they weren't automatically.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## How to use
 1. Open Powershell as administrator.
@@ -33,5 +29,3 @@ Adds Java/Git to PATH.
 
 ### configure-c.ps1
 Adds C commands to PATH, assuming you MSYS2 (msys64 folder in default location)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
