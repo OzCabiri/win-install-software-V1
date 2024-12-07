@@ -25,7 +25,7 @@ Adds python to PATH, installs pip and adds it to PATH.</br>
 Installs numpy, pandas, matplotlib, scikit-learn, scipy.
 
 ### configure-java.ps1 / configure-git.ps1
-Adds Java/Git to PATH.
+Adds Java/Git commands to PATH.
 
 ### configure-c.ps1
-Adds C commands to PATH, assuming you MSYS2 (msys64 folder in default location)
+Adds C commands to PATH, assuming you use MSYS2 (msys64 folder in default location)
